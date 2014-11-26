@@ -86,7 +86,13 @@ exclude_generator:
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: rhay
+  host: russellhay.com
+  user: rhay
+  root: /home/www/themes/book
+  delete: true
+  verbose: true
+  ignore_errors: false
 
 marked:
   gfm: true
