@@ -1,5 +1,5 @@
-title: Chapter 2
-date: 2014-11-25 18:20:34
+title: Chapter 3
+date: 2014-11-25 19:20:34
 ---
 Raw denim hashtag Pinterest, photo booth polaroid Tumblr wayfarers bespoke asymmetrical. XOXO YOLO distillery, pug Brooklyn gastropub semiotics ethical drinking vinegar. Irony cardigan Tumblr, Intelligentsia retro try-hard mustache Brooklyn photo booth meditation disrupt cronut. Austin ugh vinyl, brunch taxidermy hella shabby chic dreamcatcher asymmetrical sustainable retro. Irony street art tofu flexitarian. Wes Anderson wayfarers roof party kitsch cornhole, banjo pickled iPhone Shoreditch tattooed tofu migas church-key. Mumblecore readymade cardigan blog, you probably haven't heard of them sriracha cliche selvage lumbersexual chillwave hoodie biodiesel mixtape food truck.
 

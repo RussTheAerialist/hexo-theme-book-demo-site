@@ -12,6 +12,12 @@ body {
   font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
 }
 
+#header {
+  h1 {
+    text-align: center;
+  }
+}
+
 .article {
   .header {
     h1 {
@@ -40,6 +46,12 @@ a.nav {
 
 #footer {
   margin-top: 1em;
+  padding-top: .75em;
   font-size: 0.85em;
   line-height: 1.5em;
+  text-align: center;
+}
+
+.clear {
+  clear: both;
 }

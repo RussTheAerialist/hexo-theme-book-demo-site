@@ -1,13 +1,16 @@
 extends base.jade
 block content
+    if page.prev
+        a.prev.nav(href=url_for(page.prev_link)) &larr; Previous Chapter
+    if page.next
+        a.next.nav(href=url_for(page.next_link)) Next Chapter &rarr;
     - page.posts.each(function(chapter) {
-    article.article
+    article.article.clear
         header.header
           h1= chapter.title
         !=chapter.content
     - })
-    if page.next
-        a.next(href=url_for(page.next_link)) &larr;
     if page.prev
-        a.prev(href=url_for(page.prev_link)) &rarr;
-
+        a.prev.nav(href=url_for(page.prev_link)) &larr; Previous Chapter
+    if page.next
+        a.next.nav(href=url_for(page.next_link)) Next Chapter &rarr;
