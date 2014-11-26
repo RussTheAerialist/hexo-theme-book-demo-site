@@ -1,6 +1,3 @@
-[submodule "themes/book"]
-	path = themes/book
-	url = git@github.com:RussTheAerialist/hexo-theme-book.git
 [submodule "themes/book-released"]
 	path = themes/book-released
 	url = git@github.com:RussTheAerialist/hexo-theme-book.git

@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Untitled Novel
-subtitle: a scifi detective story
+title: Sample Novel
+subtitle: 
 description:
 author: Russell Hay
 email: russell.hay@gmail.com
@@ -13,7 +13,7 @@ language:
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://novel.russellhay.com/
-root: /
+root: /book/
 permalink: :title/
 tag_dir: tags
 archive_dir: archives
@@ -86,7 +86,7 @@ exclude_generator:
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type: rhay
+  type: rsync
   host: russellhay.com
   user: rhay
   root: /home/www/themes/book
