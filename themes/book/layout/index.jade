@@ -14,3 +14,5 @@ block content
         a.prev.nav(href=url_for(page.prev_link)) &larr; Previous Chapter
     if page.next
         a.next.nav(href=url_for(page.next_link)) Next Chapter &rarr;
+    if !page.prev || !page.next
+        != partial("_partials/author.jade")

@@ -55,3 +55,16 @@ a.nav {
 .clear {
   clear: both;
 }
+
+.left {
+  float: left;
+}
+
+#author-bio {
+  padding-top: .5em;
+  .header {
+    img {
+      margin-right: 1.5em;
+    }
+  }
+}
